@@ -1,1 +1,2 @@
-Hellow this is chapter 1 on How to Use Git
+Hellow this is chapter 1 on How to Use Git.
+great this is an plot-twist in my story....
